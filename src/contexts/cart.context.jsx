@@ -44,6 +44,7 @@ export const CartProvider = ({ children }) => {
     isCartOpen,
     setIsCartOpen,
     addItemToCart,
+    setCartItems,
     cartItems,
     cartCount,
   };
